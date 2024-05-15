@@ -6,12 +6,12 @@ Welcome to the Multiplayer Scoreboard App! This application allows multiple play
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/your-username/multiplayer-scoreboard-app.git
+   git clone https://github.com/Knight6767704/scoreusingsocket.io.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd multiplayer-scoreboard-app
+   cd scoreusingsocket.io
    ```
 
 3. **Install dependencies** for both client and server:
